@@ -1,0 +1,8 @@
+{
+  "name": "Free Fire UID Info",
+  "description": "১০০% বিনামূল্যে Free Fire UID Information service, তাত্ক্ষণিক প্লেয়ার প্রোফাইল ও মার্কেট প্রাইস চেক।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

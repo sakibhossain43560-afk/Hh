@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/api/player/:uid",
+      "destination": "/api/player?uid=:uid"
+    },
+    {
+      "source": "/api/status",
+      "destination": "/api/status"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
